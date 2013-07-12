@@ -1,5 +1,5 @@
 module Rails2Rubygems2Compatibility
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 end
 
 # monkey patch. Will ignore vendor gems.
